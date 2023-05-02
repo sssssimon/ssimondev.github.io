@@ -1,0 +1,42 @@
+html,
+body {
+    max-width: 42.5rem;
+    padding: 0 1rem;
+    margin: 1.5rem auto 6rem;
+    font-family: -apple-system, blinkmacsystemfont, "segoe ui", roboto, oxygen, ubuntu, cantarell, "fira sans", "droid sans", sans-serif;
+    line-height: 1.6;
+    font-size: 18px;
+    background-color: #282828;
+    color: #ebdbb2;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+a {
+    color: #459599;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+img {
+    max-width: 100%;
+    display: block;
+}
+
+h1 {
+    font-size: 2.5rem;
+    line-height: 1.2;
+    font-weight: 800;
+    letter-spacing: -0.05rem;
+    margin: 1rem 0;
+}
+
+p {
+    font-size: 1.1rem;
+    line-height: 1.5;
+}
