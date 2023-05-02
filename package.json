@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "env NODE_ENV=production npx eleventy --pathprefix ''",
-    "dev": "npx @11ty/eleventy --serve",
+    "dev": "npx eleventy --serve",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
